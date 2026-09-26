@@ -14,7 +14,9 @@
 - **State Management:** BLoC
 - **Integration:** REST APIs, AI-powered features
 
-### Featured Project
+### Featured Projects
+
+**[Hajir Pro](https://apps.apple.com/us/app/-/id6741463763)** — A production HRMS app for SMEs, live on the App Store. Covers attendance and work-hour tracking, salary management, and analytics, with Nepali calendar support, Firebase Analytics, Crashlytics, and a customizable drag-and-reorder dashboard.
 
 **[Lensify](https://github.com/KeharSr/lensify-flutter)** — A cross-platform camera shop e-commerce app built with Flutter, featuring authentication, product browsing, cart, and payment integration.
 
